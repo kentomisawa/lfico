@@ -10,6 +10,9 @@
 # dfx temporary files
 .dfx/
 
+# rust
+target/
+
 # frontend code
 node_modules/
 dist/

@@ -1,8 +1,9 @@
 {
   "canisters": {
     "lfico": {
-      "main": "src/lfico/main.mo",
-      "type": "motoko"
+      "candid": "src/lfico/lfico.did",
+      "package": "lfico",
+      "type": "rust"
     },
     "lfico_assets": {
       "dependencies": [
