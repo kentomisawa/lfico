@@ -22,11 +22,15 @@ This is because the main reasons why countries regulate crypto are protection fo
 
 ### How To Avoid Asset Loss
 
-Generalized DEX has the value-stable token pool, and token issuers can set how much of the paid value for the purchase of the tokens is backed in the pool. In addition to it, the pricing logic is customizable unless the withdrawal value exceeds the deposit. Therefore, token issuers can avoid the loss of assets owned by users.  
+[Generalized DEX](https://github.com/kentomisawa/generalized-dex) has the value-stable token pool, and token issuers can set how much of the paid value for the purchase of the tokens is backed in the pool. In addition to it, the pricing logic is customizable unless the withdrawal value exceeds the deposit. Therefore, token issuers can avoid the loss of assets owned by users.  
 
 ### How To Avoid AML/CFT
 
 Just restrict exchange and transferrence following the regulation in the target jurisdiction. Like, restricting until an address follows Financial Action Task Force (FATF)'s Travel Rule is one example. Offering untransferrable tokens is the same as selling a product. The problem with the existing tokens is the ability of anonymous transferrence. If it's not able to transfer anonymously, there is no reason to be regulated.
+
+#### Compliance And Verification Sharing
+
+Thanks to [Sulfur Network](https://github.com/kentomisawa/sulfur), it is easy to share the states of verification and regulations of a specific jurisdiction.
 
 ### Pricing Customization
 
