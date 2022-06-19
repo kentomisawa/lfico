@@ -1,26 +1,6 @@
-# lfico
+# LFICO Protocol - License-Free Initial Coin Offering Protocol
 
-Welcome to your new lfico project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
-
-To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
-
-To learn more before you start working with lfico, see the following documentation available online:
-
-- [Quick Start](https://smartcontracts.org/docs/quickstart/quickstart-intro.html)
-- [SDK Developer Tools](https://smartcontracts.org/docs/developers-guide/sdk-guide.html)
-- [Rust Canister Devlopment Guide](https://smartcontracts.org/docs/rust-guide/rust-intro.html)
-- [ic-cdk](https://docs.rs/ic-cdk)
-- [ic-cdk-macros](https://docs.rs/ic-cdk-macros)
-- [Candid Introduction](https://smartcontracts.org/docs/candid-guide/candid-intro.html)
-- [JavaScript API Reference](https://erxue-5aaaa-aaaab-qaagq-cai.raw.ic0.app)
-
-If you want to start working on your project right away, you might want to try the following commands:
-
-```bash
-cd lfico/
-dfx help
-dfx config --help
-```
+LFICO Protocol is a framework for users to offer digital assets without any licenses. Exchanges might have a license but offering tokens itself can be done by anyone thanks to [Generalized DEX](https://github.com/kentomisawa/generalized-dex), and [Sulfur Network](https://github.com/kentomisawa/sulfur) helps to corporate with regulated entities seamlessly.
 
 ## Running the project locally
 
@@ -35,3 +15,11 @@ dfx deploy
 ```
 
 Once the job completes, your application will be available at `http://localhost:8000?canisterId={asset_canister_id}`.
+
+## The Reason Why License-Free
+
+This is because the main reasons why countries regulate crypto are protection for users' assets and Anti-Money Laundering/Combating the Financing of Terrorism (AML/CFT). Without these two reasons, countries don't have much reason to regulate because the disadvantages surpass the benefits. LFICO Protocol offers a scaffold to avoid the risks of AML/CFT and loss of assets.
+
+### How To Avoid Those Risks
+
+First of all, 
