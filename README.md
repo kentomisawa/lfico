@@ -36,6 +36,10 @@ Thanks to [Sulfur Network](https://github.com/kentomisawa/sulfur), it is easy to
 
 Pricing Customization might be a little tricky. Because it should be dynamic pricing rather than the pricing of derivatives, and the definition of the derivatives are various to a country. The ability of exchanging to other assets may be one of the definitions. So the token offerers should also consider how to exchange into other assets. Like, payback at a different price might be fine. But again, solving the fundamental problems is more important than nominal definitions.
 
+### Trasferrability
+
+Even if custom tokens are not transferrable, users can exchange those tokens with other assets because custom tokens are burnt and minted when deposited and withdrawn. The safer way to do license-free ICO is to offer non-transferable but able to pay back with the dynamic pricing that will not cause unexpected huge asset loss.
+
 ### The Flow
 
-Token issuers set the target jurisdictioin in which they offer tokens to users, then an integrated third party like an exchange checks KYC and AML/CFT, and verify the address to transfer. But the act of exchange sometimes has to be restricted like a product with purchase and payback only.
+Token issuers set the target jurisdiction in which they offer tokens to users, then an integrated third party like an exchange checks KYC and AML/CFT, and verifies the address to transfer. But the act of exchange sometimes has to be restricted. If so, tokens might be like a product that is for purchase and payback only.
