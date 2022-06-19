@@ -30,8 +30,8 @@ Just restrict exchange and transferrence following the regulation in the target 
 
 ### Pricing Customization
 
-Pricing Customization might be a little tricky. Because it should be dynamic pricing rather than the pricing of derivatives, and the definition of the derivatives are various to a country. 
+Pricing Customization might be a little tricky. Because it should be dynamic pricing rather than the pricing of derivatives, and the definition of the derivatives are various to a country. The ability of exchanging to other assets may be one of the definitions. So the token offerers should also consider how to exchange into other assets. Like, payback at a different price might be fine. But again, solving the fundamental problems is more important than nominal definitions.
 
 ### The Flow
 
-Token issuers set the target jurisdictioin in which they offer tokens to users, then an integrated third party like an exchange checks KYC and AML/CFT, and verify the address to transfer.
+Token issuers set the target jurisdictioin in which they offer tokens to users, then an integrated third party like an exchange checks KYC and AML/CFT, and verify the address to transfer. But the act of exchange sometimes has to be restricted like a product with purchase and payback only.
