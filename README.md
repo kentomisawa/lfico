@@ -38,7 +38,7 @@ Pricing Customization might be a little tricky. Because it should be dynamic pri
 
 ### Trasferrability
 
-Even if custom tokens are not transferrable, users can exchange those tokens with other assets because custom tokens are burnt and minted when deposited and withdrawn. The safer way to do license-free ICO is to offer non-transferable but able to pay back with the dynamic pricing that will not cause unexpected huge asset loss.
+Even if custom tokens are not transferrable, users can exchange those tokens with other assets because custom tokens are burnt and minted when deposited and withdrawn. The safer way to do license-free ICO is to offer non-transferable but able to pay back with the dynamic pricing that will not cause unexpected huge asset loss. Due to the nature of burning and minting, there is no difference between offering and exchanging.
 
 ### The Flow
 
