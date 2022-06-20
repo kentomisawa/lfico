@@ -34,12 +34,12 @@ Thanks to [Sulfur Network](https://github.com/kentomisawa/sulfur), it is easy to
 
 ### Pricing Customization
 
-Pricing Customization might be a little tricky. Because it should be dynamic pricing rather than the pricing of derivatives, and the definition of the derivatives are various to a country. The ability of exchanging to other assets may be one of the definitions. So the token offerers should also consider how to exchange into other assets. Like, payback at a different price might be fine. But again, solving the fundamental problems is more important than nominal definitions.
+Pricing Customization might be a little tricky. Because it should be dynamic pricing rather than the pricing of derivatives, and the definition of the derivatives are various to a country. The ability to exchanging other assets may be one of the definitions. So the token offerors should also consider how to exchange into other assets, or, they can prohibit exchanging or transferring at all. But again, solving the fundamental problems is more important than nominal definitions to make it sustainable.
 
 ### Trasferrability
 
-Even if custom tokens are not transferrable, users can exchange those tokens with other assets because custom tokens are burnt and minted when deposited and withdrawn. The safer way to do license-free ICO is to offer non-transferable but able to pay back with the dynamic pricing that will not cause unexpected huge asset loss. Due to the nature of burning and minting, there is no difference between offering and exchanging.
+Even if custom tokens are not transferrable, users can exchange those tokens with other assets because custom tokens are burnt and minted when deposited and withdrawn. The safer way to do license-free ICO is to offer tokens that anonymous users are prohibited from exchanging or transferring and with dynamic pricing that will not cause unexpected huge asset loss. Due to the nature of burning and minting, there is no difference between offering and exchanging.
 
 ### The Flow
 
-Token issuers set the target jurisdiction in which they offer tokens to users, then an integrated third party like an exchange checks KYC and AML/CFT, and verifies the address to transfer. But the act of exchange sometimes has to be restricted. If so, tokens might be like a product that is for purchase and payback only.
+Token issuers set the target jurisdiction in which they offer tokens to users. Users cannot transfer tokens at first. Then, an integrated third party like an exchange checks KYC or other compliance and verifies the address to transfer or exchange.
