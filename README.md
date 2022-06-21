@@ -34,7 +34,11 @@ Thanks to [Sulfur Network](https://github.com/kentomisawa/sulfur), it is easy to
 
 ### Pricing Customization
 
-Pricing Customization might be a little tricky. Because it should be dynamic pricing rather than the pricing of derivatives, and the definition of the derivatives are various to a country. The ability to exchanging other assets may be one of the definitions. So the token offerors should also consider how to exchange into other assets, or, they can prohibit exchanging or transferring at all. But again, solving the fundamental problems is more important than nominal definitions to make it sustainable.
+Pricing Customization might be a little tricky. Because it should be dynamic pricing rather than the pricing of derivatives, and the definition of the derivatives are various to a country. The ability to exchange other assets may be one of the definitions. So the token offerors should also consider how to exchange into other assets, or, they can prohibit exchanging or transferring at all. But again, solving the fundamental problems is more important than nominal definitions to make it sustainable.
+
+### Fundraising
+
+It's up to users how to fundraise with token offerings. But maybe a popular way is to withdraw a part of the backed value from the pool. For example, 80% of paid values are stored in the pool, then 20% of them are withdrawn by the token issuers as funds. Another way is that all of the paid values are stored in the pool for custom pricing, but traders have to pay margin fees to the token issuers.
 
 ### Trasferrability
 
@@ -42,4 +46,4 @@ Even if custom tokens are not transferrable, users can exchange those tokens wit
 
 ### The Flow
 
-Token issuers set the target jurisdiction in which they offer tokens to users. Users cannot transfer tokens at first. Then, an integrated third party like an exchange checks KYC or other compliance and verifies the address to transfer or exchange.
+Token issuers set the target jurisdiction in which they offer tokens to users. Part of paid amounts is withdrawn by the token issuers. Users cannot transfer tokens at first. Then, an integrated third party like an exchange checks KYC or other compliance and verifies the address to transfer or exchange.
