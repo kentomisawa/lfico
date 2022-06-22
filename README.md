@@ -18,7 +18,7 @@ Once the job completes, your application will be available at `http://localhost:
 
 ## The Reason Why License-Free
 
-This is because the main reasons why countries regulate crypto are protection for users' assets and Anti-Money Laundering/Combating the Financing of Terrorism (AML/CFT). Without these two reasons, countries don't have much reason to regulate because the disadvantages surpass the benefits. LFICO Protocol offers a scaffold to avoid the risks of AML/CFT and loss of assets.
+The main reasons why countries regulate crypto are protection for users' assets and Anti-Money Laundering/Combating the Financing of Terrorism (AML/CFT). Without these two reasons, countries don't have much reason to regulate because the disadvantages surpass the benefits. LFICO Protocol offers a scaffold to avoid the risks of AML/CFT and loss of assets.
 
 ### How To Avoid Asset Loss
 
@@ -43,8 +43,8 @@ It's up to users how to fundraise with token offerings. But maybe a popular way 
 ### Transferability
 
 Transferability must be restricted at first because the definition of the derivatives is various for each country. The ability to exchange other assets may be one of the definitions. So the token offerors should also consider how to exchange into other assets, or, they can prohibit exchanging or transferring at all. But again, solving the fundamental problems is more important than nominal definitions to make it sustainable. In this case that is to make sure the flow of assets is safe and fair.  
-Even if custom tokens are not transferrable, users can exchange those tokens with other assets because custom tokens are burnt and minted when deposited and withdrawn. The safest way to do license-free ICO is to offer tokens that anonymous users are prohibited from exchanging or transferring and with dynamic pricing that will not cause unexpected huge asset loss. Due to the nature of burning and minting, there is no difference between offering and exchanging.
+Even if custom tokens are not transferrable, users can exchange those tokens with other assets because custom tokens are burnt and minted when deposited and withdrawn. Due to the nature of burning and minting, there is no difference between offering and exchanging. The safest way to do license-free ICO is to offer tokens that anonymous users are prohibited from exchanging or transferring. Despite that, allowing anonymous users to buy and sell only with their fiat currencies may be legal in many jurisdictions. This is because that is the same as purchase and payback dynamic pricing products.
 
 ### The Flow
 
-Token issuers set the target jurisdiction in which they offer tokens to users. Part of paid amounts is withdrawn by the token issuers. Users cannot transfer tokens at first. Then, an integrated third party like an exchange checks KYC or other compliance and verifies the address to transfer or exchange.
+Token issuers set the target jurisdiction in which they offer tokens to users. Part of paid amounts may be sent to the token issuers. Project owners also decide whether users can transfer or exchange tokens at first. Then, an integrated third party like an exchange checks KYC or other compliance and verifies the address to authorize the rest of the ability to transfer or exchange.
